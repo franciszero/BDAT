@@ -1,0 +1,190 @@
+﻿
+============ Task 1 ============
+Enter your name => Francis Chen
+Your name is :Francis Chen
+
+============ Task 2 ============
+String binary of name "Francis Chen" is 00000110010001100111001001100001011011100110001101101001011100110010000001000011011010000110010101101110
+Processing str[0] = 0
+Processing str[1] = 0
+Processing str[2] = 0
+Processing str[3] = 0
+Processing str[4] = 0
+Processing str[5] = 1   4
+Processing str[6] = 1   2
+Processing str[7] = 0
+Result                  6=
+
+Processing str[0] = 0
+Processing str[1] = 1   64
+Processing str[2] = 0
+Processing str[3] = 0
+Processing str[4] = 0
+Processing str[5] = 1   4
+Processing str[6] = 1   2
+Processing str[7] = 0
+Result                  70=F
+
+Processing str[0] = 0
+Processing str[1] = 1   64
+Processing str[2] = 1   32
+Processing str[3] = 1   16
+Processing str[4] = 0
+Processing str[5] = 0
+Processing str[6] = 1   2
+Processing str[7] = 0
+Result                  114=r
+
+Processing str[0] = 0
+Processing str[1] = 1   64
+Processing str[2] = 1   32
+Processing str[3] = 0
+Processing str[4] = 0
+Processing str[5] = 0
+Processing str[6] = 0
+Processing str[7] = 1   1
+Result                  97=a
+
+Processing str[0] = 0
+Processing str[1] = 1   64
+Processing str[2] = 1   32
+Processing str[3] = 0
+Processing str[4] = 1   8
+Processing str[5] = 1   4
+Processing str[6] = 1   2
+Processing str[7] = 0
+Result                  110=n
+
+Processing str[0] = 0
+Processing str[1] = 1   64
+Processing str[2] = 1   32
+Processing str[3] = 0
+Processing str[4] = 0
+Processing str[5] = 0
+Processing str[6] = 1   2
+Processing str[7] = 1   1
+Result                  99=c
+
+Processing str[0] = 0
+Processing str[1] = 1   64
+Processing str[2] = 1   32
+Processing str[3] = 0
+Processing str[4] = 1   8
+Processing str[5] = 0
+Processing str[6] = 0
+Processing str[7] = 1   1
+Result                  105=i
+
+Processing str[0] = 0
+Processing str[1] = 1   64
+Processing str[2] = 1   32
+Processing str[3] = 1   16
+Processing str[4] = 0
+Processing str[5] = 0
+Processing str[6] = 1   2
+Processing str[7] = 1   1
+Result                  115=s
+
+Processing str[0] = 0
+Processing str[1] = 0
+Processing str[2] = 1   32
+Processing str[3] = 0
+Processing str[4] = 0
+Processing str[5] = 0
+Processing str[6] = 0
+Processing str[7] = 0
+Result                  32=
+
+Processing str[0] = 0
+Processing str[1] = 1   64
+Processing str[2] = 0
+Processing str[3] = 0
+Processing str[4] = 0
+Processing str[5] = 0
+Processing str[6] = 1   2
+Processing str[7] = 1   1
+Result                  67=C
+
+Processing str[0] = 0
+Processing str[1] = 1   64
+Processing str[2] = 1   32
+Processing str[3] = 0
+Processing str[4] = 1   8
+Processing str[5] = 0
+Processing str[6] = 0
+Processing str[7] = 0
+Result                  104=h
+
+Processing str[0] = 0
+Processing str[1] = 1   64
+Processing str[2] = 1   32
+Processing str[3] = 0
+Processing str[4] = 0
+Processing str[5] = 1   4
+Processing str[6] = 0
+Processing str[7] = 1   1
+Result                  101=e
+
+Processing str[0] = 0
+Processing str[1] = 1   64
+Processing str[2] = 1   32
+Processing str[3] = 0
+Processing str[4] = 1   8
+Processing str[5] = 1   4
+Processing str[6] = 1   2
+Processing str[7] = 0
+Result                  110=n
+
+decoded name from binary string: "Francis Chen"
+
+============ Task 3 ============
+String hex of name "Francis Chen" is 064672616e636973204368656e
+Processing 0x06 =   6 =
+Processing 0x46 =  70 = F
+Processing 0x72 = 114 = r
+Processing 0x61 =  97 = a
+Processing 0x6e = 110 = n
+Processing 0x63 =  99 = c
+Processing 0x69 = 105 = i
+Processing 0x73 = 115 = s
+Processing 0x20 =  32 =
+Processing 0x43 =  67 = C
+Processing 0x68 = 104 = h
+Processing 0x65 = 101 = e
+Processing 0x6e = 110 = n
+decoded name from hex string: "Francis Chen"
+
+============ Task 4 ============
+Base64 encryption of name "Francis Chen" is BkZyYW5jaXMgQ2hlbg==
+
+============ Task 5 ============
+^T=82
+F^h=46
+r^i=27
+a^s=18
+n^ =78
+c^i=10
+i^s=26
+s^ =83
+ ^a=65
+C^ =99
+h^k=03
+e^e=00
+n^y=23
+name encryption: 82462718781026836599030023
+0x82 ^ T =
+0x46 ^ h = F
+0x27 ^ i = r
+0x18 ^ s = a
+0x78 ^   = n
+0x10 ^ i = c
+0x26 ^ s = i
+0x83 ^   = s
+0x65 ^ a =
+0x99 ^   = C
+0x03 ^ k = h
+0x00 ^ e = e
+0x23 ^ y = n
+name decryption: Francis Chen
+
+============ Tasks completed ============
